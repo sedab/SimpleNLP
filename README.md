@@ -1,8 +1,8 @@
 
 # SimpleNLP: medical condition detection in clinical text
 
-Code acompaining paper:[]
-Web API version can be found at https://hit.nyumc.org/simpleNLP.
+* Code acompaining paper:[] 
+* Web API version can be found at https://hit.nyumc.org/simpleNLP.
 
 # Data:
 * Any text data can be used
@@ -17,9 +17,9 @@ Clone this repo to your local machine using:
  git clone https://github.com/sedab/SimpleNLP
  
 ```
-run:
-python -m textblob.download_corpora
-pip install textblob
+*run: 
+** python -m textblob.download_corpora
+** pip install textblob
 
 * Typical install time on a "normal" desktop computer is around 10 seconds.
 
