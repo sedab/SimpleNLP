@@ -2,6 +2,7 @@
 # SimpleNLP: medical condition detection in clinical text
 
 Code acompaining paper:[]
+Web API version can be found at https://hit.nyumc.org/simpleNLP.
 
 # Data:
 * Any text data can be used
@@ -19,7 +20,7 @@ Clone this repo to your local machine using:
 * Typical install time on a "normal" desktop computer is around 10 seconds.
 
 ## 3. Demo
-The user needs to define the configurations (examples are given in config folder for mi, stroke, pe, dvt, other thrombosis event types)
+The user needs to define the configurations ( Tuned mi, stroke, pe, dvt, other thrombosis event configuration files are given in Config folder)
 
 * Target phrases are the list of terms that describe the clinical entity in question, such as "embolus" or "thromboembolism." When a target phrase is found within a report, the tool checks to see whether the target phrase is negated (e.g. “no evidence of embolus”). If the tool finds more sentences that contain the target phrase than negate the target phrase, the report is scored as "present", otherwise it is scored as "absent". In cases of a tie, the report is scored as "present" but marked as ambiguous.
 
