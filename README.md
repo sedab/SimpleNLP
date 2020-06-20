@@ -1,9 +1,6 @@
 
 # SimpleNLP: medical condition detection in clinical text
 
-
-# Efficient pan-cancer whole-slide image classification using convolutional neural networks
-
 Code acompaining paper:[]
 
 # Data:
