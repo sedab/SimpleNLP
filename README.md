@@ -17,10 +17,12 @@ Clone this repo to your local machine using:
  git clone https://github.com/sedab/SimpleNLP
  
 ```
-* run: 
-- python -m textblob.download_corpora
-- pip install textblob
+* intall the following packages by running run: 
 
+```
+python -m textblob.download_corpora
+pip install textblob
+```
 * Typical install time on a "normal" desktop computer is around 10 seconds.
 
 ## 3. Demo
