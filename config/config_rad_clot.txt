@@ -1,0 +1,93 @@
+#target_phrases
+Acute stroke
+Central venous obstruction
+Clot
+Clots
+Cytotoxic edema
+Emboli
+Embolism
+Embolus
+Filling defect
+Filling defects
+Infarct
+Infarction
+Infarctions
+Infarcts
+Intravascular defect
+Intravascular defects
+Ischemia
+Noncompressibility
+Noncompressible
+Non-compressible
+Non-compressibility
+Not compressible
+Occluded
+Occlusion
+Occlusions
+Occlusive
+Partial compressibility
+Partially compressible
+Penumbra
+Thrombi
+Thromboemboli
+Thromboembolic
+Thromboembolism
+Thrombosis
+Thrombus
+thrombosed
+DVT
+
+#skip_phrases
+Age-indeterminate
+Age-indeterminant
+Age indeterminate
+Age indeterminant
+Artifact
+Assessment
+Basilic
+Basillic
+Cephalic
+Chronic
+Comparison
+Diagnosis
+Dissection
+Evaluation
+Evolving
+History
+Indication
+Median cubital
+MRI
+CT
+No evidence
+Nondiagnostic
+Non-diagnostic
+Old
+Remote
+Repeat
+Resolution
+Saphenous
+Stable
+Symptoms
+Technique
+Uninterpretable
+Unchanged
+Grossly unchanged
+Superficial vein thrombosis
+Superficial venous thrombosis
+Superficial vein 
+Superficial thrombophlebitis
+
+#absolute_positive_phrases
+critical test result of acute stroke
+critical test result of pulmonary embolism
+critical test result of pulmonary emboli
+No flow
+No color flow
+No Doppler signal
+No Doppler flow
+
+
+#start_phrase
+Findings
+
+

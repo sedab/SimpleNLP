@@ -1,0 +1,40 @@
+#target_phrases
+Pulmonary emboli
+Pulmonary embolus
+Pulmonary embolism
+Saddle embolus
+Saddle embolism
+
+#skip_phrases
+evaluation
+history
+indication
+technique
+comparison
+assessment
+nondiagnostic
+uninterpretable
+artifact
+repeat
+resolution
+chronic
+
+#absolute_negative_phrases
+no evidence of acute pulmonary embolus
+no evidence of acute pulmonary emboli
+no evidence of pulmonary embolus
+no evidence of pulmonary emboli
+no acute pulmonary embolus
+no acute pulmonary emboli
+no pulmonary embolus
+no pulmonary emboli
+no evidence of pulmonary embolism
+no evidence of acute pulmonary embolism
+no pulmonary embolism
+
+#absolute_positive_phrases
+critical test result of pulmonary embolism
+critical test result of pulmonary emboli
+
+#start_phrase
+impression

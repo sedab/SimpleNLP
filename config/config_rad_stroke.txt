@@ -1,0 +1,46 @@
+#target_phrases
+acute infarct
+acute ischemia
+ischemia
+acute stroke
+cytotoxic edema
+clot
+emboli
+embolism
+embolus
+filling defect
+infarct
+infarction
+occluded
+occlusion
+occlusive
+penumbra
+thrombi
+thrombosis
+thrombus
+acute infarction
+clots
+infarcts
+infarctions
+
+
+#skip_phrases
+chronic
+old
+no evidence
+remote
+stable
+dissection
+MRI
+age-indeterminate
+age indeterminate
+age indeterminant
+
+
+#absolute_negative_phrases
+
+#absolute_positive_phrases
+critical test result of acute stroke
+
+#start_phrase
+impression

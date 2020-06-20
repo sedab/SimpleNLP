@@ -1,0 +1,36 @@
+#target_phrases
+Thrombosis
+DVT
+Noncompressible
+Partially compressible
+Noncompressibility
+occlusion
+occluded
+thrombi
+thrombus
+occlusive
+partial compressibility
+echogenic clot
+not compressible
+
+#skip_phrases
+diagnosis
+symptoms
+history
+superficial
+indication
+comparison
+chronic
+cephalic
+basilic
+saphenous
+median cubital
+basillic
+
+#absolute_positive_phrases
+consistent with acute occlusive deep vein thrombosis
+consistent with an acute occlusive deep vein thrombosis
+evidence of acute occlusive deep vein thrombosis
+
+#start_phrase
+Impression

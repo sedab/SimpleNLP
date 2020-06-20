@@ -1,0 +1,37 @@
+#target_phrases
+Myocardial infarction
+STEMI
+NSTEMI
+MI
+Myocardial infarct
+Type 2 MI
+NSTEMI Type 2
+demand ischemia
+Type 2 NSTEMI
+Type II MI
+Type II NSTEMI
+demand related
+
+#skip_phrases
+History of
+Hx
+hx of
+history
+H/o
+Father
+Brother
+Mother
+Sister
+PMH
+PMHx
+Past Medical History
+Chronic
+Family History
+FH
+Fhx
+old
+S/p
+Status post
+
+#start_phrase
+Assessment
