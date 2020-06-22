@@ -28,7 +28,7 @@ pip install textblob
 ## 3. Demo
 The user needs to define the configurations ( Tuned mi, stroke, pe, dvt, other thrombosis event configuration files are given in Config folder)
 
-* Target phrases are the list of terms that describe the clinical entity in question, such as "embolus" or "thromboembolism." When a target phrase is found within a report, the tool checks to see whether the target phrase is negated (e.g. “no evidence of embolus”). If the tool finds more sentences that contain the target phrase than negate the target phrase, the report is scored as "present", otherwise it is scored as "absent". In cases of a tie, the report is scored as "present" but marked as ambiguous.
+* Target phrases are the list of terms that describe the clinical entity in question, such as "embolus" or "thromboembolism." When a target phrase is found within a report, the tool checks to see whether the target phrase is negated in the negex.py file (e.g. “no evidence of embolus”). If the tool finds more sentences that contain the target phrase than negate the target phrase, the report is scored as "present", otherwise it is scored as "absent". In cases of a tie, the report is scored as "present" but marked as ambiguous.
 
 * Skip phrases are used to eliminate sentences in the narrative that might confuse the classifier; this is useful for situations in which the target phrase is contained within the indications section of the report (e.g. "Indication for study: concern for PE").
 
